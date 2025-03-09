@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{D21A86DA-5384-462C-8DCB-0CFC8A7A58BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathUtilitiesLibrary", "MathUtilitesLibrary\MathUtilitiesLibrary.csproj", "{8500C811-1B8A-4E72-8DF5-37A90CBBE7BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D21A86DA-5384-462C-8DCB-0CFC8A7A58BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D21A86DA-5384-462C-8DCB-0CFC8A7A58BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D21A86DA-5384-462C-8DCB-0CFC8A7A58BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D21A86DA-5384-462C-8DCB-0CFC8A7A58BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8500C811-1B8A-4E72-8DF5-37A90CBBE7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8500C811-1B8A-4E72-8DF5-37A90CBBE7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8500C811-1B8A-4E72-8DF5-37A90CBBE7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8500C811-1B8A-4E72-8DF5-37A90CBBE7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A9D1A34-7F59-4DA2-89D8-337990844A4D}
+	EndGlobalSection
+EndGlobal
